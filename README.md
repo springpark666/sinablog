@@ -1,1 +1,1 @@
-我的新浪博客app
+my sinablog app
